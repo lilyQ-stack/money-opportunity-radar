@@ -1,9 +1,7 @@
-name: Daily Money Opportunity Radar
+name: Money Opportunity Radar
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "20 1 * * *"
 
 permissions:
   contents: write
@@ -21,7 +19,7 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Generate daily report
+      - name: Generate radar report manually
         run: python scripts/report.py
 
       - name: Commit generated report
@@ -33,5 +31,5 @@ jobs:
             echo "No report changes"
             exit 0
           fi
-          git commit -m "Generate daily opportunity radar report"
+          git commit -m "Generate opportunity radar report"
           git push
