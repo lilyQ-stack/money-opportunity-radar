@@ -1,13 +1,50 @@
 [
   {
+    "name": "MAMAMOO 4WARD中国内地独家快闪周边",
+    "location": "上海静安大悦城",
+    "release_window": "2026-09-11 to 2026-09-18",
+    "acquisition": "现场快闪；中国限定周边、毛绒、扭蛋及满赠",
+    "official_signal": "公开活动信息明确中国限定、首款毛绒木木神、未公开特典和满赠",
+    "evidence_level": "E1",
+    "priority": "HIGH_URGENT",
+    "status": "VERIFY_MARKET",
+    "risk_flags": ["deadline_soon", "asking_only", "fan_merch_liquidity_can_drop_fast"],
+    "next_check": "活动9月18日结束；优先核验具体原价、剩余库存、海外代购挂价和实际成交证据"
+  },
+  {
+    "name": "LE SSERAFIM GLOBAL POP UP Shanghai",
+    "location": "上海浦东华润时代广场L101",
+    "release_window": "2026-09-25 to 2026-10-11",
+    "acquisition": "线上及现场预约制；线上预约已于2026-09-15 12:00开启",
+    "official_signal": "Weverse官方确认上海站预约制运营",
+    "evidence_level": "E0",
+    "priority": "HIGH",
+    "status": "PRE_RELEASE_VERIFY",
+    "risk_flags": ["merch_prices_pending_normalization", "no_verified_secondary_transactions_yet"],
+    "next_check": "开店前核对商品清单、上海/中国限定SKU、限购规则和预约余量；避免开店后才发现机会"
+  },
+  {
+    "name": "东方Project × 南十字星咖啡主题餐厅特典",
+    "location": "上海静安区曲阜路137号",
+    "release_window": "2026-09-04 to 2026-09-23",
+    "acquisition": "饮品附随机杯垫+纸杯套；主食/甜品附餐垫；满128元另有赠品",
+    "official_signal": "公开活动规则明确赠品数量有限，且部分特典随餐逐份赠送",
+    "evidence_level": "E0",
+    "priority": "MEDIUM",
+    "status": "VERIFY_FREEBIE_MARKET",
+    "risk_flags": ["random_character", "food_cost_counts_as_acquisition", "resale_demand_unverified"],
+    "next_check": "验证随机杯垫/纸杯套/餐垫是否有独立二手需求；只有赠品价值覆盖额外消费成本才升级"
+  },
+  {
     "name": "2026国际视听艺术嘉年华限量胶片纪念票根及NFC定制手环",
     "location": "上海静安",
-    "release_window": "2026-09-24 to 2026-10-18",
+    "release_window": "2026-09-24 onward",
     "acquisition": "官方活动预约/现场活动，具体领取与价格规则待公布",
-    "official_signal": "官方明确写明限量胶片纪念票根及三款定制NFC手环",
+    "official_signal": "上海市政府明确写明限量胶片纪念票根及三款定制NFC手环",
     "evidence_level": "E0",
+    "priority": "HIGH",
     "status": "DISCOVERED",
-    "risk_flags": ["pre_release", "thin_market"],
+    "risk_flags": ["pre_release", "quantity_unknown", "transferability_unknown"],
     "next_check": "监控公众预约通道、领取/购买规则、数量、是否限购及首批二手报价"
   },
   {
@@ -17,6 +54,7 @@
     "acquisition": "PORTS1961南京西路旗舰店联动，价格和数量待公布",
     "official_signal": "静安区官方确认PORTS1961将以JISP主视觉推出限量艺术衍生品",
     "evidence_level": "E0",
+    "priority": "MEDIUM",
     "status": "DISCOVERED",
     "risk_flags": ["pre_release", "thin_market"],
     "next_check": "监控具体SKU、发售价、限量数量、购买资格和二手市场需求"
@@ -26,8 +64,9 @@
     "location": "上海/林里LINLEE相关渠道",
     "release_window": "已上线",
     "acquisition": "购买限定饮品获得联名周边，具体门店库存需核实",
-    "official_signal": "上海市绿化市容局称联名上线后引发抢购热潮，全网互动破10万、曝光超1000万",
+    "official_signal": "官方信息称联名上线后引发抢购，全网互动和曝光较高",
     "evidence_level": "E1",
+    "priority": "MEDIUM",
     "status": "VERIFY_MARKET",
     "risk_flags": ["asking_only", "thin_market"],
     "next_check": "重点找独立二手报价、收购价或实际成交记录；确认周边是否仍可低成本获取"
