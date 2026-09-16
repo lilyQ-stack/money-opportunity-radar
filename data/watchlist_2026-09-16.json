@@ -1,0 +1,35 @@
+[
+  {
+    "name": "2026国际视听艺术嘉年华限量胶片纪念票根及NFC定制手环",
+    "location": "上海静安",
+    "release_window": "2026-09-24 to 2026-10-18",
+    "acquisition": "官方活动预约/现场活动，具体领取与价格规则待公布",
+    "official_signal": "官方明确写明限量胶片纪念票根及三款定制NFC手环",
+    "evidence_level": "E0",
+    "status": "DISCOVERED",
+    "risk_flags": ["pre_release", "thin_market"],
+    "next_check": "监控公众预约通道、领取/购买规则、数量、是否限购及首批二手报价"
+  },
+  {
+    "name": "2026JISP × PORTS1961限量艺术衍生品",
+    "location": "上海静安/南京西路",
+    "release_window": "2026-09-24 onward",
+    "acquisition": "PORTS1961南京西路旗舰店联动，价格和数量待公布",
+    "official_signal": "静安区官方确认PORTS1961将以JISP主视觉推出限量艺术衍生品",
+    "evidence_level": "E0",
+    "status": "DISCOVERED",
+    "risk_flags": ["pre_release", "thin_market"],
+    "next_check": "监控具体SKU、发售价、限量数量、购买资格和二手市场需求"
+  },
+  {
+    "name": "上海动物园 × 林里LINLEE 野生鸭联名周边",
+    "location": "上海/林里LINLEE相关渠道",
+    "release_window": "已上线",
+    "acquisition": "购买限定饮品获得联名周边，具体门店库存需核实",
+    "official_signal": "上海市绿化市容局称联名上线后引发抢购热潮，全网互动破10万、曝光超1000万",
+    "evidence_level": "E1",
+    "status": "VERIFY_MARKET",
+    "risk_flags": ["asking_only", "thin_market"],
+    "next_check": "重点找独立二手报价、收购价或实际成交记录；确认周边是否仍可低成本获取"
+  }
+]
