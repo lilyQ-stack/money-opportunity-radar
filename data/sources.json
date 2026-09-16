@@ -1,0 +1,29 @@
+[
+  {
+    "id": "shanghai-gov-events",
+    "name": "Shanghai Municipal Government - events and consumer news",
+    "type": "official_news",
+    "base_url": "https://www.shanghai.gov.cn/",
+    "signals": ["限量", "预约", "限定", "文创", "票根", "手环", "消费券", "发售"],
+    "priority": "high",
+    "notes": "Primary upstream source for Shanghai-limited events, cultural merchandise and reservation openings."
+  },
+  {
+    "id": "shanghai-museum",
+    "name": "Shanghai Museum",
+    "type": "official_museum",
+    "base_url": "https://www.shanghaimuseum.cn/",
+    "signals": ["限量", "文创", "发售", "早鸟", "售罄", "预约"],
+    "priority": "medium",
+    "notes": "Official source for exhibition tickets and museum cultural products."
+  },
+  {
+    "id": "pbc-commemorative-coins",
+    "name": "People's Bank of China - commemorative coin notices",
+    "type": "official_mint_notice",
+    "base_url": "https://www.pbc.gov.cn/",
+    "signals": ["纪念币", "纪念钞", "预约", "兑换", "发行"],
+    "priority": "high",
+    "notes": "Authoritative source for ordinary commemorative coin issuance and reservation notices. Monetary products are exempt from the normal RMB 1000 capital cap in this project."
+  }
+]
