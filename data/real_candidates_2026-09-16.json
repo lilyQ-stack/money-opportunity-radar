@@ -1,31 +1,49 @@
 [
   {
+    "name": "CHIIKAWA DAYS Shanghai exhibition limited merchandise and ticket gifts",
+    "category": "limited_ip_collectible",
+    "city": "Shanghai",
+    "source": "JAKC / public exhibition information",
+    "source_date": "2026-09-16",
+    "event_start": "2026-09-12",
+    "event_end": "2026-11-01",
+    "acquisition": "Shanghai Jing An Kerry Centre; some merchandise requires exhibition admission",
+    "retail_price_cny": null,
+    "secondary_reference_cny": null,
+    "status": "priority_market_validation",
+    "evidence_level": "E1",
+    "priority": "high",
+    "notes": "Mainland China debut. Shanghai-themed items and globally debuted local-food designs are confirmed. Ticket gifts include character name-tag charms and Shanghai-themed stickers; special package includes nine charms and RFID light-up baton. Some merchandise is limited or ticket-holder priority. Public overseas resale/preorder listings already exist, but asking prices are not treated as transaction prices. Need exact SKU retail prices and actual resale evidence before calculating net spread."
+  },
+  {
     "name": "2026 International Audiovisual Art Carnival limited film-style commemorative ticket stub",
     "category": "limited_event_collectible",
     "city": "Shanghai",
-    "source": "Shanghai Municipal Government",
+    "source": "Shanghai / Jing'an official information",
     "source_date": "2026-09-10",
     "event_start": "2026-09-24",
-    "acquisition": "Event channel / on-site details pending official release",
+    "acquisition": "Jing'an culture-commerce-travel-sports-exhibition mini program / event sites; detailed rules pending",
     "retail_price_cny": null,
     "secondary_reference_cny": null,
-    "status": "watch_secondary_market",
-    "evidence_quality": "official",
-    "notes": "Official notice explicitly says a limited film-style commemorative ticket stub will be issued. No purchase price or resale evidence yet; do not classify as profitable until real secondary-market transactions appear."
+    "status": "watch_acquisition_rules",
+    "evidence_level": "E0",
+    "priority": "high",
+    "notes": "Official information confirms limited film-style commemorative ticket stubs. Public reservation channel is expected through the Jing'an mini program. No acquisition cost, quantity or transferability evidence yet."
   },
   {
     "name": "2026 International Audiovisual Art Carnival three custom NFC wristbands",
     "category": "limited_event_collectible",
     "city": "Shanghai",
-    "source": "Shanghai Municipal Government",
+    "source": "Shanghai / Jing'an official information",
     "source_date": "2026-09-10",
     "event_start": "2026-09-24",
     "acquisition": "Jing'an culture-commerce-travel-sports-exhibition mini program / event sites",
     "retail_price_cny": null,
     "secondary_reference_cny": null,
-    "status": "watch_secondary_market",
-    "evidence_quality": "official",
-    "notes": "Three custom wristbands are announced, all with NFC redemption chips and exclusive coupons. Scarcity and transferability are not yet confirmed."
+    "status": "watch_acquisition_rules",
+    "evidence_level": "E0",
+    "priority": "medium_high",
+    "notes": "Three custom wristbands are confirmed, all with NFC redemption chips and exclusive coupons. Scarcity, identity binding and transferability are not yet confirmed."
   },
   {
     "name": "9th China Shanghai Jing'an International Sculpture Project pop-up cultural products",
@@ -38,7 +56,23 @@
     "retail_price_cny": null,
     "secondary_reference_cny": null,
     "status": "watch_launch",
-    "evidence_quality": "official",
-    "notes": "Pop-up store will sell scarves, tote bags, T-shirts, pendants and other exhibition merchandise. No explicit limited quantity stated, so this is lower priority than confirmed limited items."
+    "evidence_level": "E0",
+    "priority": "low",
+    "notes": "Scarves, tote bags, T-shirts, pendants and other exhibition merchandise are announced, but no explicit limited quantity is stated."
+  },
+  {
+    "name": "Shanghai Zoo x LINLEE Wild Duck collaboration merchandise",
+    "category": "brand_collaboration",
+    "city": "Shanghai",
+    "source": "Shanghai Landscaping and City Appearance Administrative Bureau",
+    "source_date": "2026-09-11",
+    "event_start": "2026-09-04",
+    "acquisition": "LINLEE collaboration drinks / participating channels",
+    "retail_price_cny": null,
+    "secondary_reference_cny": null,
+    "status": "market_validation",
+    "evidence_level": "E0",
+    "priority": "medium",
+    "notes": "Official source reports strong attention and rush-buying, with over 100k interactions and over 10m exposure. Exact acquisition cost and verifiable resale transactions still need collection."
   }
 ]
