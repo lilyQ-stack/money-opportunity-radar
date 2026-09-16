@@ -1,0 +1,32 @@
+{
+  "observed_at": "2026-09-16",
+  "experiment": "CHIIKAWA DAYS Shanghai price validation",
+  "items": [
+    {
+      "item": "Longtang Eats food mascot (single)",
+      "mainland_reference_price_cny": 139,
+      "mainland_price_evidence": "Seller/daigou listings consistently state original price CNY 139; official public price page not yet located",
+      "market_observations": [
+        {"market": "Carousell Hong Kong", "asking_price_hkd": 200, "evidence_level": "E1", "note": "single mascot asking price"},
+        {"market": "Hong Kong specialist shop", "asking_price_hkd_range": [238, 258], "evidence_level": "E1", "note": "pre-order retail/daigou asking price"},
+        {"market": "Mercari Japan", "asking_price_jpy_set_8": 52000, "evidence_level": "E1", "note": "eight-mascot set asking price"}
+      ],
+      "interpretation": "Cross-market resale/daigou demand is visible, but no verified completed-sale evidence has been found. Do not calculate guaranteed profit from these asks. Ticket cost and acquisition friction materially reduce margin for a buyer entering only to resell."
+    },
+    {
+      "item": "CHIIKAWA DAYS special ticket-set benefits: 9 name-tag charms + RFID light-up baton",
+      "acquisition_bundle_price_cny": 390,
+      "market_observations": [
+        {"market": "Mercari Shops Japan", "asking_price_jpy": 16141, "evidence_level": "E1", "note": "reservation listing; admission ticket not included in resale package"}
+      ],
+      "interpretation": "Interesting freebie/bundle-value case, but current evidence is an asking price for a reservation product rather than a completed transaction."
+    }
+  ],
+  "rules_learned": [
+    "Separate official/original price evidence from seller-stated original price.",
+    "Never treat a foreign-market asking price as a completed-sale price.",
+    "Include required ticket/admission cost when purchase access is ticket-holder-only.",
+    "Track free gifts and bundled benefits separately from merchandise resale value.",
+    "A long exhibition period can increase later supply; early scarcity may fade quickly."
+  ]
+}
