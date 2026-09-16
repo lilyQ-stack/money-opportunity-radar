@@ -1,0 +1,44 @@
+[
+  {
+    "name": "2026 International Audiovisual Art Carnival limited film-style commemorative ticket stub",
+    "category": "limited_event_collectible",
+    "city": "Shanghai",
+    "source": "Shanghai Municipal Government",
+    "source_date": "2026-09-10",
+    "event_start": "2026-09-24",
+    "acquisition": "Event channel / on-site details pending official release",
+    "retail_price_cny": null,
+    "secondary_reference_cny": null,
+    "status": "watch_secondary_market",
+    "evidence_quality": "official",
+    "notes": "Official notice explicitly says a limited film-style commemorative ticket stub will be issued. No purchase price or resale evidence yet; do not classify as profitable until real secondary-market transactions appear."
+  },
+  {
+    "name": "2026 International Audiovisual Art Carnival three custom NFC wristbands",
+    "category": "limited_event_collectible",
+    "city": "Shanghai",
+    "source": "Shanghai Municipal Government",
+    "source_date": "2026-09-10",
+    "event_start": "2026-09-24",
+    "acquisition": "Jing'an culture-commerce-travel-sports-exhibition mini program / event sites",
+    "retail_price_cny": null,
+    "secondary_reference_cny": null,
+    "status": "watch_secondary_market",
+    "evidence_quality": "official",
+    "notes": "Three custom wristbands are announced, all with NFC redemption chips and exclusive coupons. Scarcity and transferability are not yet confirmed."
+  },
+  {
+    "name": "9th China Shanghai Jing'an International Sculpture Project pop-up cultural products",
+    "category": "cultural_merchandise",
+    "city": "Shanghai",
+    "source": "Shanghai Municipal Government",
+    "source_date": "2026-09-15",
+    "event_start": "2026-09-20",
+    "acquisition": "Jing'an Sculpture Park art center pop-up shop",
+    "retail_price_cny": null,
+    "secondary_reference_cny": null,
+    "status": "watch_launch",
+    "evidence_quality": "official",
+    "notes": "Pop-up store will sell scarves, tote bags, T-shirts, pendants and other exhibition merchandise. No explicit limited quantity stated, so this is lower priority than confirmed limited items."
+  }
+]
