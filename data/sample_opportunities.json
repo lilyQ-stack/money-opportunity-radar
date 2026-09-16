@@ -1,0 +1,24 @@
+[
+  {
+    "name": "示例：网络预约限定商品",
+    "category": "limited",
+    "retail_price": 299,
+    "resale_reference_price": 430,
+    "liquidity_score": 4,
+    "acquisition_score": 3,
+    "capital_lock_score": 4,
+    "confidence": 0.75,
+    "source_notes": "演示数据，不代表真实商品"
+  },
+  {
+    "name": "示例：上海线下纪念品",
+    "category": "local-limited",
+    "retail_price": 680,
+    "resale_reference_price": 720,
+    "liquidity_score": 2,
+    "acquisition_score": 2,
+    "capital_lock_score": 2,
+    "confidence": 0.6,
+    "source_notes": "演示数据，不代表真实商品"
+  }
+]
